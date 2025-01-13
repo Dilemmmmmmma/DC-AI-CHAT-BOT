@@ -1,6 +1,11 @@
 # Discord机器人 
 这是一个功能强大的Discord机器人，支持AI聊天和自动签到功能。 
-  <img src="./images/1.png"/>
+
+  <img src="/image/1.png"/>
+  <img src="/image/2.png"/>
+  <img src="/image/3.png"/>
+  <img src="/image/4.png"/>
+
 
 ## 功能特点： 
 
