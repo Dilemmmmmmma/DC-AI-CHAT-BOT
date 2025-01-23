@@ -13,6 +13,8 @@
 ## 主要功能
 
 ### AI版
+- API KEY在这里申请来这里申请一个 https://geekai.co/chat?invite_code=aNr6pP
+然后填到API KEY的框框里 点保存设置 就可以了
 - 支持多线程运行，自动分配Token
 - 线程错开启动，避免消息冲突
 - 可设置发送消息的时间间隔
